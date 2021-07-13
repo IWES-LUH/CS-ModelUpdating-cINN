@@ -1,2 +1,3 @@
-# CS-ModelUpdating-cINN
-Model updating of wind turbine blade cross sections with invertible neural networks
+# CS_ModelUpdating
+
+A Framework to update cross sections of wind turbine rotor blades

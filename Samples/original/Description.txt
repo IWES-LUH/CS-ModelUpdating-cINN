@@ -1,0 +1,6 @@
+Radius			6 mm
+Samples No.		50.000
+Sampling		uniform random
+Material var	10 %
+DP_SC_related	15 mm
+DP_others		10 mm
