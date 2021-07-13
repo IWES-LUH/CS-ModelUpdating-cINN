@@ -1,4 +1,4 @@
-# CS_ModelUpdating
+# Wind Trubine Blade Cross Sectional Model Updating with Invertible Neural Networks
 
 A Framework to update cross sections of wind turbine rotor blades
 
